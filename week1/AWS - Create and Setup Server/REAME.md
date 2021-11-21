@@ -2,8 +2,9 @@
 
         arsitektur yang saya gunakkan di aws
 
+
 <br>
-   <img src=".image/1.PNG">
+   <img src=".image/1.png">
    <br>
 
 1. Login terlebih dahulu ke aws `https://aws.amazon.com/id/education/awseducate/`
