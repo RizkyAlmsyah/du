@@ -15,6 +15,7 @@
    <img src=".image/3.PNG">
    <br>
 4. kemudian tambahkan perintah ini
+        
         $ sudo certbot --dns-cloudflare --dns-cloudflare-credentials /root/.secrets/cloudflare.ini -d rizky.onlinecamp.id, --preferred-challenges dns-01 -i nginx
    
    <br>
